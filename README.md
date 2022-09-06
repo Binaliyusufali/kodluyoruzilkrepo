@@ -20,3 +20,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 MIT
 
 ![Images](ilkrepo.jpg)
+
+www.patika.dev
